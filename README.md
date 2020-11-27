@@ -1,6 +1,5 @@
 <h1 align="center">Allo Allo! 👋</h1>
-<br>
-<h3 align"center">👦 I'm Jayendu Wijeratne, 📍 from Kandy, Srilanka</h3>
+<h2 align"center">👦 I'm Jayendu Wijeratne, 📍 from Kandy, Srilanka</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jayendu&color=red" alt="Jayendu" /> </p>
 
 <p> 

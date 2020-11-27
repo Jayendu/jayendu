@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Jayendu/jayendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @jayendu14
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: ...
--->
 
-![](https://komarev.com/ghpvc/?username=Jayendu)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Indukilana&color=brightgreen" alt="Indukilana" /> </p>

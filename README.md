@@ -5,15 +5,15 @@
 
 <p> 
 <h5 align="center">
-  <code><a href="https://www.facebook.com/jayendu14" title="Facebook Profile"><img width="22"                                                                             src="https://github.com/Jayendu/jayendu/img/facebook.png">Facebook</a></code>
+  <code><a href="https://www.facebook.com/jayendu14" title="Facebook Profile"><img width="22"                                                                             src="https://github.com/Jayendu/jayendu/blob/main/img/facebook.png">Facebook</a></code>
   <code><a href="https://www.instagram.com/jayendu14/" title="Instagram Profile"><img width="22" 
-src="https://github.com/Jayendu/jayendu/img/instagram.svg"> Instagram</a></code>  
+src="https://github.com/Jayendu/jayendu/blob/main/img/instagram.svg"> Instagram</a></code>  
   <code><a href="https://www.linkedin.com/in/jayendu-wijeratne-2624291aa/" title="LinkedIn Profile"><img width="22" 
-src="https://github.com/Jayendu/jayendu/img/linkedin.svg"> LinkedIn</a></code>  
+src="https://github.com/Jayendu/jayendu/blob/main/img/linkedin.svg"> LinkedIn</a></code>  
   <code><a href="https://www.twitter.com/jayendu14" title="Twitter Profile"><img width="22" 
-src="https://github.com/Jayendu/jayendu/img//twitter.png"> Twitter</a></code>  
+src="https://github.com/Jayendu/jayendu/blob/main/img/twitter.png"> Twitter</a></code>  
   <code><a href="mailto:wijeratnejayendu@gmail.com; jayenduwijeratne@gmail.com" title="Send Email"><img width="22" 
-src="https://github.com/Jayendu/jayendu/img//gmail.png"> Gmail</a></code>
+src="https://github.com/Jayendu/jayendu/blob/main/img/gmail.png"> Gmail</a></code>
 </h5>
 <p/>
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I love unique and creative projects.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" />

@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I love unique and creative projects.
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" />
+<img margin="auto" display="block" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" />
